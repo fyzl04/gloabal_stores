@@ -25,7 +25,7 @@ This project focuses on analyzing a store dataset with branches worldwide using 
    - Reported key findings and insights.
 
 4. **Video Walkthrough**:
-   - A video walkthrough explaining the visualizations and insights has been uploaded to [LinkedIn/NovyPro](#) (include link).
+   - A video walkthrough explaining the visualizations and insights has been uploaded to (https://www.linkedin.com/in/faisal-m-073710327/).
    - The video covers how to navigate the report and understand the key visualizations.
 
 ## File Structure
